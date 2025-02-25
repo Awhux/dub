@@ -14,7 +14,7 @@
       "cache": false
     },
     "test": {},
-    "start": {
+    "start:web": {
       "dependsOn": ["^build"]
     }
   }
